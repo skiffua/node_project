@@ -1,0 +1,19 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "test nodejs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiffua/node_project.git"
+  },
+  "author": "oleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiffua/node_project/issues"
+  },
+  "homepage": "https://github.com/skiffua/node_project#readme"
+}
